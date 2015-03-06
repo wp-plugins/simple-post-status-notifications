@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Simple Post Status Notifications\n"
+"POT-Creation-Date: 2015-01-28 19:03-0300\n"
+"PO-Revision-Date: 2015-01-28 19:03-0300\n"
+"Last-Translator: \n"
+"Language-Team: Dientuki <dientuki@gmail.com>\n"
+"Language: Spanish\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-Basepath: ./\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../spsn.php:112
+msgid "Overview"
+msgstr "Descripcion"
+
+#: ../spsn.php:113
+msgid ""
+"On this screen, you can manage Simple Post Status Notifications templates to "
+"use in the email exchange"
+msgstr ""
+"En esta pantalla, podras administrar los templates a usar en el intercambio "
+"de emails"
+
+#: ../spsn.php:116
+msgid "AUTHOR"
+msgstr "Nombre del autor"
+
+#: ../spsn.php:117
+msgid "BLOGNAME"
+msgstr "Nombre del blog"
+
+#: ../spsn.php:118
+msgid "EDITOR"
+msgstr "Nombre del editor"
+
+#: ../spsn.php:119
+msgid "PERMALINK"
+msgstr "Link de la entrada"
+
+#: ../spsn.php:120
+msgid "POST_EDIT"
+msgstr "Link para editar la entrada"
+
+#: ../spsn.php:121
+msgid "POSTNAME"
+msgstr "Título de la entrada"
+
+#: ../spsn.php:127
+msgid "Template-tags"
+msgstr "Template-tags"
+
+#: ../spsn.php:128
+msgid ""
+"A Template-tag is a short code enclosed in percentage used in the emails."
+msgstr ""
+"Un Template-tag es código corto dentro de signos de porcentaje que se "
+"utilizanen los emails"
+
+#: ../spsn.php:175
+msgid "Subject to editor"
+msgstr "Asunto al editor"
+
+#: ../spsn.php:183
+msgid "Text to editor"
+msgstr "Texto al editor"
+
+#: ../spsn.php:191
+msgid "Subject to author when published"
+msgstr "Asunto al autor cuando se publique"
+
+#: ../spsn.php:199
+msgid "Text to author when published"
+msgstr "Texto al autor cuando se publique"
+
+#: ../spsn.php:207
+msgid "Subject to author when returning to draft"
+msgstr "Asunto al autor cuando vuelva a borrador"
+
+#: ../spsn.php:215
+msgid "Text to author when returning to draft"
+msgstr "Texto al autor cuando vuelva a borrador"
+
+#: ../spsn.php:388
+msgid "Notice was given to the editors"
+msgstr "Se informó a los editores"
+
+#: ../spsn.php:390
+msgid "Failed to notify any or all editors"
+msgstr "No se pudo notificar a alguno o todos los editores"
+
+#: ../spsn.php:425
+msgid "Notice was given to the author"
+msgstr "Se dio aviso al autor"
+
+#: ../spsn.php:427
+msgid "Failed to notify the author"
+msgstr "No se pudo notificar al autor"

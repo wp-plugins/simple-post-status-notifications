@@ -1,0 +1,101 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Simple Post Status Notifications\n"
+"POT-Creation-Date: 2015-01-28 19:03-0300\n"
+"PO-Revision-Date: 2015-01-28 19:03-0300\n"
+"Last-Translator: \n"
+"Language-Team: Dientuki <dientuki@gmail.com>\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-Basepath: ./\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../spsn.php:112
+msgid "Overview"
+msgstr "Overview"
+
+#: ../spsn.php:113
+msgid ""
+"On this screen, you can manage Simple Post Status Notifications templates to "
+"use in the email exchange"
+msgstr ""
+"On this screen, you can manage Simple Post Status Notifications templates to "
+"use in the email exchange"
+
+#: ../spsn.php:116
+msgid "AUTHOR"
+msgstr "Author name"
+
+#: ../spsn.php:117
+msgid "BLOGNAME"
+msgstr "Blog name"
+
+#: ../spsn.php:118
+msgid "EDITOR"
+msgstr "Editor name"
+
+#: ../spsn.php:119
+msgid "PERMALINK"
+msgstr "Permalink"
+
+#: ../spsn.php:120
+msgid "POST_EDIT"
+msgstr "Link to edit the post"
+
+#: ../spsn.php:121
+msgid "POSTNAME"
+msgstr "Post name"
+
+#: ../spsn.php:127
+msgid "Template-tags"
+msgstr "Template-tags"
+
+#: ../spsn.php:128
+msgid ""
+"A Template-tag is a short code enclosed in percentage used in the emails."
+msgstr ""
+"A Template-tag is a short code enclosed in percentage used in the emails."
+
+#: ../spsn.php:175
+msgid "Subject to editor"
+msgstr "Subject to editor"
+
+#: ../spsn.php:183
+msgid "Text to editor"
+msgstr "Text to editor"
+
+#: ../spsn.php:191
+msgid "Subject to author when published"
+msgstr "Subject to author when published"
+
+#: ../spsn.php:199
+msgid "Text to author when published"
+msgstr "Text to author when published"
+
+#: ../spsn.php:207
+msgid "Subject to author when returning to draft"
+msgstr "Subject to author when returning to draft"
+
+#: ../spsn.php:215
+msgid "Text to author when returning to draft"
+msgstr "Text to author when returning to draft"
+
+#: ../spsn.php:388
+msgid "Notice was given to the editors"
+msgstr "Notice was given to the editors"
+
+#: ../spsn.php:390
+msgid "Failed to notify any or all editors"
+msgstr "Failed to notify any or all editors"
+
+#: ../spsn.php:425
+msgid "Notice was given to the author"
+msgstr "Notice was given to the author"
+
+#: ../spsn.php:427
+msgid "Failed to notify the author"
+msgstr "Failed to notify the author"
