@@ -356,7 +356,7 @@ class SPSN
       
       $this->options = get_option( 'spsn_options' );
       
-      $headers[] = 'From: WordPress <wordpress@dientuki.com.ar>';
+      $headers[] = 'From: ' . get_bloginfo('name') . ' <' . get_bloginfo('admin_email') . '>';
       
       //Draf to pending, let email to editor
       if ( ($old_status == 'draft') && ($new_status == 'pending') ) {
