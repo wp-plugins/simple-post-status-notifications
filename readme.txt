@@ -3,11 +3,11 @@ Contributors: dientuki
 Tags:  post, status, notification, notify, change, email, log, logging, transition, post status, status notification, post notification, email notification, post status notification, notifier, submit for review, pending status, pending posts, published posts, article submissions, author notifications, editor notifications, post email, editorial workflow, edit flow
 Requires at least: 3
 Tested up to: 4.1
-Stable tag: 1
+Stable tag: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Simple post status notifications sends emails to authors and editors when the post status change.
+Simple post status notifications sends emails to authors and editors when the post status changes.
 
 == Description ==
 
@@ -50,6 +50,9 @@ Sure, let me know.
 Depends, if it is useful enough and I have time for it.
 
 == Changelog ==
+
+= 1.1 =
+* Fix in email header https://wordpress.org/support/topic/email-header
 
 = 1.0 =
 * Initial release
