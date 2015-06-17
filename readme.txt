@@ -2,7 +2,7 @@
 Contributors: dientuki
 Tags:  post, status, notification, notify, change, email, log, logging, transition, post status, status notification, post notification, email notification, post status notification, notifier, submit for review, pending status, pending posts, published posts, article submissions, author notifications, editor notifications, post email, editorial workflow, edit flow
 Requires at least: 3
-Tested up to: 4.1
+Tested up to: 4.2.2
 Stable tag: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
