@@ -3,7 +3,7 @@
 Plugin Name: Simple post status notifications
 Plugin URI: http://dientuki.com.ar/simple-post-status-notifications
 Description: Send post status notifications by email to Editors when posts are submitted for review and to Author when the Editor publish or send to draf.
-version: 1
+version: 1.2
 Author: Dientuki
 Author URI: http://dientuki.com.ar/
 */
